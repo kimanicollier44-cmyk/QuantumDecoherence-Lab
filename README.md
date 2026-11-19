@@ -1,4 +1,4 @@
-![QuantumDecoherence-Lab cover](assets/cover.png)
+![QuantumDecoherence-Lab cover](QuantumDecoherence-Lab%20cover.png)
 
 # QuantumDecoherence-Lab 🌀⚛️
 
